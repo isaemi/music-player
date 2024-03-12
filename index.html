@@ -63,15 +63,15 @@
             progress.onchange = function(){
                 song.play();
                 song.currentTime = progress.value;
-                ctrlIcon.classList.remove("fa-pause");
-                    ctrlIcon.classList.add("fa-play");
+                ctrlIcon.classList.add("fa-pause");
+                    ctrlIcon.classList.pause("fa-play");
             }
 
             function playNextSong(){
                 song.src = "musics/suffocate.mp3";
             }
 
-            function playPreviouisSong(){
+            function playPreviousSong(){
 
             }
         </script>
