@@ -1,0 +1,45 @@
+const content = `
+[
+    {
+        "id":"S001",
+        "title":"Heavy",
+        "artist":"POWERS",
+        "filename":"Heavy.mp3",
+        "imagename":"Heavy.jpeg"
+    },
+    {
+        "id":"S002",
+        "title":"Heaven, wait",
+        "artist":"Ghostly Kisses",
+        "filename":"Heaven,wait.mp3",
+        "imagename":"ghostlyKisses.jpeg"
+    },
+    {
+        "id":"S003",
+        "title":"Falling Apart",
+        "artist":"Michael Schulte",
+        "filename":"FallingApart.mp3",
+        "imagename":"fallingApart.jpeg"
+    },
+    {
+        "id":"S004",
+        "title":"Bones",
+        "artist":"Oliver Koletzki; HVOB",
+        "filename":"Bones.mp3",
+        "imagename":"bones.jpeg"
+    },
+    {
+        "id":"S005",
+        "title":"Suffocate",
+        "artist":"Nathan Wagner",
+        "filename":"Suffocate.mp3",
+        "imagename":"suffocate.jpeg"
+    },
+    {
+        "id":"S006",
+        "title":"Drunk Groove",
+        "artist":"MARUV & BOOSIN",
+        "filename":"DrunkGroove.mp3",
+        "imagename":"drunkgroove.jpeg"
+    },
+]`
